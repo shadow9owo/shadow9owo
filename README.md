@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @shadow9owo
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning gamedev
-- 📫 you can reach me on discord: shadowdev#9499
+hi i am shadowdev
+i code dum shit
+you can reach out to me at Shadowdev#9499 (discord)
 
 <!---
 shadow9owo/shadow9owo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
