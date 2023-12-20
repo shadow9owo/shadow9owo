@@ -8,10 +8,3 @@ and i code dum shit</p>
 <a href="https://steamcommunity.com/id/shadowdevhere/" target="_blank">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
 </a>
-
-
-
-<!---
-shadow9owo/shadow9owo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
